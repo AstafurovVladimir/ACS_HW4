@@ -1,0 +1,4 @@
+Container contains 3 plants:
+Tree: Oak of age 321
+Flower: Rose of garden type
+Bush: George that blossoms in July

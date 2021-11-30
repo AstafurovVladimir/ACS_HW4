@@ -1,0 +1,7 @@
+Container contains 6 plants:
+Tree: Bush of age 321
+Bush: Flower that blossoms in December
+Flower: Tree of home type
+Tree: Flower of age 867
+Bush: Tree that blossoms in November
+Flower: Bush of garden type
